@@ -1,3 +1,3 @@
 # PLUS_softwaredev_2025_mwanzo
-Practice software development 2025  
-This repository is for the practive of development of software mainly geospatial😊
+Practice Software Development 2025  
+This repository is dedicated to practicing and advancing software development skills, with a focus on geospatial applications🤔
