@@ -13,7 +13,7 @@ Use the Python from your conda environment, e.g. *C:\Users\YourUsername\.conda\e
 If that does not work, try the base environment Python: for example *(C:\ProgramData\Anaconda3\python.exe)*   
 
 **3. Run the snappy-conf script to configure SNAP**  
-If you use the base environemnt python or you already have SNAP installed then,
+If you use the base environemnt python or you already have SNAP installed then,  
 Open a command prompt, navigate to SNAP’s bin folder, and run:  
 `` cd "C:\Program Files\esa-snap\bin" ``  
 `` snappy-conf "C:\Users\YourUsername\.conda\envs\snap_env\python.exe" ``  
