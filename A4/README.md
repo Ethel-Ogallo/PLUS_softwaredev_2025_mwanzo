@@ -7,12 +7,13 @@ To use this notebook with the esa-snappy library (the Python interface for ESA S
 `` python -m pip install esa-snappy ``  
 
 **2. Install ESA SNAP Desktop**    
-Download and install ESA SNAP from the SNAP website.  
+Download and install ESA SNAP from the [SNAP website](https://earth.esa.int/eogateway/tools/snap).  
 During installation, enable the option to configure Python for SNAP and specify your Python executable path:  
 Use the Python from your conda environment, e.g. *C:\Users\YourUsername\.conda\envs\snap_env\python.exe*  
 If that does not work, try the base environment Python: for example *(C:\ProgramData\Anaconda3\python.exe)*   
 
-**3. Run the snappy-conf script to configure SNAP**
+**3. Run the snappy-conf script to configure SNAP**  
+If you use the base environemnt python or you already have SNAP installed then,
 Open a command prompt, navigate to SNAP’s bin folder, and run:  
 `` cd "C:\Program Files\esa-snap\bin" ``  
 `` snappy-conf "C:\Users\YourUsername\.conda\envs\snap_env\python.exe" ``  
