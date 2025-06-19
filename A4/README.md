@@ -28,3 +28,6 @@ in the Python environment, try importing:
 ``  import esa_snappy ``  
 `` from esa_snappy import ProductIO ``    
 If no errors occur, your setup is complete!  
+
+### Data
+To access the data used in this notebook. Download it form [here](https://browser.stac.dataspace.copernicus.eu/collections/sentinel-1-grd/items/S1C_IW_GRDH_1SDV_20250527T181900_20250527T181925_002520_0053F6_70DB_COG?.language=en&.asset=asset-product)
